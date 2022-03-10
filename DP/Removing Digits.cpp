@@ -64,7 +64,7 @@ int solve(int n)
 
 int main()
 {
-    // run();
+    run();
     int n;
     cin>>n;
     dp.resize(n+1,-1);
